@@ -29,7 +29,6 @@ struct AwardsView: View {
     }
 }
 
-
 //struct AwardsView: View {
 //    let awards = Award.getAwards()
 //    let columns = [GridItem(.adaptive(minimum: 160, maximum: 200))]
